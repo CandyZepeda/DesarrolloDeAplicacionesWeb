@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <title>Ejemplo 1</title>
+ </head>
+ <body>
+     <h1>HTML5</h1>
+     <h2>HTML5</h2>
+     <h3>HTML5</h3>
+     <h4>HTML5</h4>
+     <p id="parrafo1">Mi primera pagina web Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem culpa dignissimos nemo cumque ex ut quaerat aspernatur ipsa ullam hic nesciunt quam veritatis, minus, deleniti quasi quibusdam praesentium, id asperiores.</p>
+     <a href="http://www.itiguala.edu.mx">Enlace</a>
+     <p id="parrafo2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis laboriosam impedit sed, sit incidunt repellat dolorum. Quo aliquid enim tempora autem laborum eaque quisquam possimus, ex sapiente recusandae numquam a.</p>
+ </body>
+ </html>
